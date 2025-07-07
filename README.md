@@ -53,7 +53,7 @@ Click below to run the simulation online:
 
 > ⚠️ In Colab, first run:
 > ```python
-> !pip install pathway-python
+> !pip install pathway
 > ```
 
 ---
